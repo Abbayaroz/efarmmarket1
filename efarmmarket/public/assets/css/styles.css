@@ -1,0 +1,71 @@
+#sidebar {
+    background-color:darkgreen;
+    color:white;
+
+}
+#Buyerpagerow1{
+    margin-top: 100px;
+}
+#homerow1{
+    margin-top: -13px;
+}
+#sidebar ul li {
+    border-bottom:2px solid white;
+    text-align:center;
+    width: 100%;
+}
+
+#sidebar ul li:hover {
+    background-color:#75b2dd;
+    color:black;
+    cursor:pointer;
+}
+
+#buyerpagerow1{
+    margin-left: 0.01%;
+}
+#umessages{
+    background: red;
+}
+body{
+
+}
+#nav1{
+    padding: 0px 0px 0px 0px;
+}
+
+#alerter{
+    position:absolute;
+    top:2%;
+    width:100%;
+    z-index: 123456;
+
+}
+li{
+    list-style: none;
+}
+@media (min-width: 768px) {
+    #navcol-1 {
+        margin-left:20%;
+    }
+}
+
+@media (min-width: 992px) {
+    #navcol-1 {
+        margin-left:40%;
+    }
+}
+
+@media (min-width: 1200px) {
+    #navcol-1 {
+        margin-left:50%;
+    }
+}
+
+
+body{
+    //padding:0% 5%;
+}
+.col{
+
+}
